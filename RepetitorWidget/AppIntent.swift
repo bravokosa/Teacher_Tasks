@@ -1,10 +1,3 @@
-//
-//  AppIntent.swift
-//  RepetitorWidget
-//
-//  Created by Анна on 13.12.25.
-//
-
 import WidgetKit
 import AppIntents
 
